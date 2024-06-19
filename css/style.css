@@ -407,4 +407,38 @@ footer nav a:hover {
     .scoperta a:hover {
         color: black;
     }
+
+
+    .fasi {
+        max-width: 1200px;
+        margin: 64px auto;
+        padding: 0 20px;
+    }
+    
+    .fasi div {
+
+        grid-template-columns: 1fr ;
+        margin: 64px 40px;
+        gap: 16px;
+    }
+    
+
+    .epoche {
+    
+    margin: 64px auto;
+    padding: 0 20px;
+}
+
+.epoche div {
+
+    grid-template-columns: 1fr;
+    margin: 64px 40px;
+    gap: 16px;
+}
+
+
+    
+   
+    
+    
 }
