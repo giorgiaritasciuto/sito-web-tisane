@@ -387,4 +387,24 @@ footer nav a:hover {
     .tipologia {
         margin: 20px 0; 
     }
+
+    .scoperta {
+        font-size: 20px;
+        width: 125%;
+        
+       
+    }
+    
+    .scoperta a {
+        text-decoration: none;
+        color: white;
+        padding: 2px;
+        background: #A7DB02; 
+        color: #fff; 
+      
+    }
+    
+    .scoperta a:hover {
+        color: black;
+    }
 }
