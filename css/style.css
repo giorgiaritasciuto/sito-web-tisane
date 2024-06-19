@@ -437,7 +437,31 @@ footer nav a:hover {
 }
 
 
-    
+
+
+
+
+.team1 img {
+    width: 200px; 
+    height: auto; 
+}
+
+.team1 ul {
+    list-style: none; 
+    font-weight: bold;
+    padding: 15px; 
+    margin-top: 2px; 
+    color: #000000; border-radius: 50px;
+}
+
+.team1 ul li a {
+    color: white; 
+    text-decoration: none; 
+}
+
+.team1 ul li a:hover {
+    color: black; 
+}   
    
     
     
