@@ -44,6 +44,8 @@ header nav p {
 }
 
 header nav p:hover {
+
+
     color: #708628;
 }
 
@@ -439,7 +441,13 @@ footer nav a:hover {
 
 
 
-
+.team1 {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center;
+    margin: 10px; 
+}
 
 .team1 img {
     width: 200px; 
@@ -463,6 +471,10 @@ footer nav a:hover {
     color: black; 
 }   
    
-    
+.content {
+    max-width: 100%;
+}  
+
+
     
 }
